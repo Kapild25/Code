@@ -17,7 +17,7 @@ export const Componet5 = () => {
           <img
             className="avatar-aisplash"
             alt="Avatar aisplash"
-            src="avatar-aisplash-avatars.png"
+            src="women1.png"
           />
           <div className="info">
             <div className="name">John Green</div>
@@ -28,7 +28,7 @@ export const Componet5 = () => {
           <img
             className="avatar-aisplash"
             alt="Avatar aisplash"
-            src="image.png"
+            src="women2.svg"
           />
           <div className="info">
             <div className="name">Jane White</div>
@@ -39,7 +39,7 @@ export const Componet5 = () => {
           <img
             className="avatar-aisplash"
             alt="Avatar aisplash"
-            src="avatar-aisplash-avatars-2.png"
+            src="women3.svg"
           />
           <div className="info">
             <div className="name">Robert Blue</div>
@@ -50,7 +50,7 @@ export const Componet5 = () => {
           <img
             className="avatar-aisplash"
             alt="Avatar aisplash"
-            src="avatar-aisplash-avatars-3.png"
+            src="women4.svg"
           />
           <div className="info">
             <div className="name">Emily Black</div>
@@ -61,7 +61,7 @@ export const Componet5 = () => {
           <img
             className="avatar-aisplash"
             alt="Avatar aisplash"
-            src="avatar-aisplash-avatars-4.png"
+            src="men1.svg"
           />
           <div className="info">
             <div className="name">Michael Red</div>
@@ -72,7 +72,7 @@ export const Componet5 = () => {
           <img
             className="avatar-aisplash"
             alt="Avatar aisplash"
-            src="avatar-aisplash-avatars-5.png"
+            src="men2.svg"
           />
           <div className="info">
             <div className="name">Laura Yellow</div>
@@ -83,7 +83,7 @@ export const Componet5 = () => {
           <img
             className="avatar-aisplash"
             alt="Avatar aisplash"
-            src="avatar-aisplash-avatars-6.png"
+            src="men3.svg"
           />
           <div className="info">
             <div className="name">James Brown</div>
