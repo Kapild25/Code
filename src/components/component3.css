@@ -1,0 +1,128 @@
+.type-gallery-with {
+  align-items: center;
+  background-color: #363062;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+
+  padding: 120px 16px;
+  position: relative;
+  width: 1465px;
+  /* border: 2px red solid; */
+}
+.type-gallery-with .content {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  justify-content: center;
+  max-width: 1024px;
+  position: relative;
+  width: 100%;
+}
+.type-gallery-with .heading-container {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  max-width: 800px;
+  position: relative;
+  width: 100%;
+  width: auto;
+  margin-left: 23
+}
+.type-gallery-with .heading {
+  align-self: stretch;
+  color: #f5f5f5;
+  font-family: "Inter-Bold", Helvetica;
+  width: 700px;
+  font-size: 51px;
+  font-weight: 700;
+  letter-spacing: -1.02px;
+  line-height: 61.2px;
+  margin-top: -1px;
+  position: relative;
+  margin-left: 485px;
+}
+.type-gallery-with .subheading {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: relative;
+  text-align: center;
+  margin-left: 500px;
+  width: 550px;
+}
+.type-gallery-with .media-layouts {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 40px 40px;
+  justify-content: center;
+  max-width: 1200px;
+  position: relative;
+  width: 100%;
+  margin-left: 240px;
+}
+.type-gallery-with .showcase-item {
+  align-items: center;
+  border-radius: 16px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 8px;
+  height: 326px;
+  justify-content: center;
+  min-width: 320px;
+  position: relative;
+}
+.type-gallery-with .image-aisplash {
+  align-self: stretch;
+  flex: 1;
+  flex-grow: 1;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+
+}
+.type-gallery-with .item-info {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+.type-gallery-with .label {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  color: #ffffff;
+  display: -webkit-box;
+  flex: 1;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 21px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+}
+.type-gallery-with .arrow-right {
+  height: 32px;
+  position: relative;
+  width: 300px;
+}
