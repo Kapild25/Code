@@ -1,0 +1,109 @@
+.type-mega-menu {
+ align-items: flex-start;
+ background-color: #f5f5f5;
+ display: flex;
+ gap: 16px;
+ justify-content: space-around;
+ padding: 64px 32px;
+ position: relative;
+}
+.type-mega-menu .content {
+ align-items: flex-start;
+ display: flex;
+ flex: 1;
+ flex-grow: 1;
+ flex-wrap: wrap;
+ gap: 397px 56px;
+ justify-content: space-between;
+ max-width: 1200px;
+ position: relative;
+}
+.type-mega-menu .frame {
+ align-items: flex-start;
+ display: flex;
+ flex: 1;
+ flex-direction: column;
+ flex-grow: 1;
+ gap: 24px;
+ min-width: 248px;
+ position: relative;
+}
+.type-mega-menu .brand {
+ align-items: center;
+ display: inline-flex;
+ flex: 0 0 auto;
+ gap: 8px;
+ justify-content: center;
+ position: relative;
+}
+.type-mega-menu .icon {
+ height: 32px;
+ position: relative;
+ width: 32px;
+}
+.type-mega-menu .brand-name {
+ color: #232323;
+ font-family: "Inter-SemiBold", Helvetica;
+ font-size: 14px;
+ font-weight: 600;
+ letter-spacing: 0;
+ line-height: 21px;
+ position: relative;
+ white-space: nowrap;
+ width: fit-content;
+}
+.type-mega-menu .text-wrapper {
+ color: #232323;
+ font-family: "Inter-Regular", Helvetica;
+ font-size: 18px;
+ font-weight: 400;
+ letter-spacing: 0;
+ line-height: 25.2px;
+ position: relative;
+ white-space: nowrap;
+ width: fit-content;
+}
+.type-mega-menu .links {
+ align-items: flex-start;
+ display: flex;
+ flex: 1;
+ flex-grow: 1;
+ flex-wrap: wrap;
+ gap: 40px 40px;
+ justify-content: flex-end;
+ min-width: 280px;
+ position: relative;
+}
+.type-mega-menu .list {
+ align-items: flex-start;
+ display: flex;
+ flex: 1;
+ flex-direction: column;
+ flex-grow: 1;
+ gap: 16px;
+ min-width: 108px;
+ position: relative;
+}
+.type-mega-menu .list-heading {
+ color: #232323;
+ font-family: "Inter-SemiBold", Helvetica;
+ font-size: 14px;
+ font-weight: 600;
+ letter-spacing: 0;
+ line-height: 21px;
+ margin-top: -1px;
+ position: relative;
+ white-space: nowrap;
+ width: fit-content;
+}
+.type-mega-menu .list-link-item {
+ color: #232323;
+ font-family: "Inter-Regular", Helvetica;
+ font-size: 14px;
+ font-weight: 400;
+ letter-spacing: 0;
+ line-height: 21px;
+ position: relative;
+ white-space: nowrap;
+ width: fit-content;
+}
