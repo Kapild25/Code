@@ -31,6 +31,7 @@
  justify-content: center;
  position: relative;
  width: 100%;
+ 
 }
 .type-complex-circle .heading {
  -webkit-box-orient: vertical;
@@ -46,8 +47,10 @@
  margin-top: -1px;
  overflow: hidden;
  position: relative;
- text-align: center;
+ /* text-align: center; */
  text-overflow: ellipsis;
+ margin-left: 350px;
+ width: 500pc;
 }
 .type-complex-circle .subheading {
  align-self: stretch;
@@ -58,7 +61,9 @@
  letter-spacing: 0;
  line-height: 28.6px;
  position: relative;
- text-align: center;
+ /* text-align: center; */
+ margin-left: 485px;
+ width: 800px;
 }
 .type-complex-circle .team-list {
  align-items: flex-start;
@@ -67,10 +72,13 @@
  flex: 0 0 auto;
  flex-wrap: wrap;
  gap: 32px 32px;
- justify-content: center;
+ margin-left: 150px;
+ /* justify-content: center; */
+ /* align-items: center; */
  max-width: 1200px;
  position: relative;
  width: 100%;
+
 }
 .type-complex-circle .team-member {
  align-items: center;
